@@ -28,6 +28,10 @@ The advanced tutorials will guide you through all there is to know regarding HTM
 - [[Box Model]]
 - [[Icons]]
 
+### Jquery
+- [[Fundamentals]]
+
+
 ### Bootstrap Elements
 - [[Buttons]]
 - [[Navigation Bar]]
